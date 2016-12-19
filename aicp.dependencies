@@ -1,0 +1,27 @@
+[
+  {
+    "repository":   "AICP/device_sony_castor_windy",
+    "target_path":  "device/sony/castor_windy",
+    "branch":       "n7.1"
+  },
+  {
+    "repository":   "SonyCM/android_hardware_qcom_audio",
+    "target_path":  "hardware/qcom/audio/default",
+    "branch":       "cm-14.1"
+  },
+  {
+    "repository":   "SonyCM/android_hardware_qcom_media",
+    "target_path":  "hardware/qcom/media",
+    "branch":       "cm-14.1"
+  },
+  {
+    "repository":   "sonyxperiadev/vendor-qcom-opensource-fm",
+    "target_path":  "hardware/qcom/fm",
+    "branch":       "master"
+  },
+  {
+    "repository":   "sonyxperiadev/packages-apps-FMRadio",
+    "target_path":  "packages/apps/FMRadio",
+    "branch":       "master"
+  }
+]
