@@ -1,0 +1,7 @@
+[
+  {
+    "repository":   "AICP/device_sony_castor_windy",
+    "target_path":  "device/sony/castor_windy",
+    "branch":       "n7.1"
+  }
+]
