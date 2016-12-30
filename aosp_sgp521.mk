@@ -36,8 +36,8 @@ PRODUCT_PACKAGES += \
     power.castor
 
 # NFC config
-PRODUCT_PACKAGES += \
-    nfc_nci.castor
+#PRODUCT_PACKAGES += \
+#    nfc_nci.castor
 
 # Telephony Packages (AOSP)
 PRODUCT_PACKAGES += \
