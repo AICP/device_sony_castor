@@ -15,18 +15,8 @@
     "branch":       "cm-14.1"
   },
   {
-    "repository":   "sonyxperiadev/vendor-qcom-opensource-fm",
-    "target_path":  "hardware/qcom/fm",
-    "branch":       "master"
-  },
-  {
-    "repository":   "sonyxperiadev/packages-apps-FMRadio",
+    "repository":   "SonyLOS/android_packages_apps_FMRadio",
     "target_path":  "packages/apps/FMRadio",
-    "branch":       "master"
-  },
-  {
-    "repository":   "SpiritCroc/android_hardware_broadcom_libbt",
-    "target_path":  "hardware/broadcom/libbt",
-    "branch":       "AICP-n7.1"
+    "branch":       "cm-14.1"
   }
 ]
