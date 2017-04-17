@@ -19,6 +19,7 @@ TARGET_SPECIFIC_HEADER_PATH += device/sony/castor/include
 
 # Assert
 TARGET_OTA_ASSERT_DEVICE := SGP521,SGP541,SGP551,castor
+TARGET_BOOTLOADER_BOARD_NAME := SGP521,SGP541,SGP551
 
 # Kernel properties
 TARGET_KERNEL_CONFIG := lineageos_shinano_castor_defconfig
